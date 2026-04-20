@@ -1,143 +1,80 @@
-# 🧑‍💻 NGANGA KIANG JOURDAN
+👋 Salut, moi c’est Jourdan Kiang Nganga
 
-### Apprenti Data Analyst
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-orange?logo=postgresql)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
-![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen)
-
-📊 *Transformer la donnée brute en décisions éclairées grâce à l’analyse et à la visualisation.*
-
+🎯 Aspirant Data Analyst | Disponible en alternance dès Septembre 2026
 📍 Tours, France
-📞 +33 7 80 73 33 28
-✉️ [kiangnganga@gmail.com](mailto:kiangnganga@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ton-profil) • [GitHub](https://github.com/ton-compte)
 
----
+🚀 À propos de moi
 
-## 🚀 À propos de moi
+Passionné par la data et l’analyse, je transforme les données brutes en insights exploitables pour aider à la prise de décision.
 
-Actuellement étudiant en mathématiques et data, je prépare mon évolution vers un **Master en Data Analyse, Statistiques ou Intelligence Artificielle**.
+Actuellement en Licence de Mathématiques, avec un background en Big Data & Analyse de Données, je développe des compétences solides en :
 
-Je développe des compétences solides en **analyse de données, programmation et visualisation**, avec une approche orientée **résolution de problèmes concrets**.
+Analyse de données
+Reporting & KPI
+Visualisation
+SQL & Excel avancé
 
-✔️ Double formation : Mathématiques & Big Data
-✔️ Projets pratiques en Python, SQL et Power BI
-✔️ Expérience professionnelle renforçant rigueur et discipline
+💡 Objectif : intégrer une entreprise en alternance pour résoudre de vrais problèmes avec la data.
 
----
+🛠️ Stack & Outils
+📊 Data Analysis : Excel (avancé), SQL
+📈 Data Visualization : Dashboards, KPI tracking
+🗄️ Data Management : Nettoyage, transformation, structuration
+⚙️ Autres : Power Query, Tableaux croisés dynamiques
+📂 Projets
+📊 Analyse des performances de l’entreprise (SQL)
 
-## 📂 Projets Data
+🔗 Voir le projet
 
-### 📊 E-commerce Sales Dashboard
+Analyse complète d’une base de données commerciale :
 
-➡️ Analyse des ventes et comportements clients
-➡️ Création de KPI et dashboards interactifs
-➡️ Identification des produits les plus performants
+Analyse des ventes par produit, région et segment
+Identification des produits les plus rentables
+Création de requêtes SQL avancées (jointures, vues)
+Suivi des KPI (CA, revenu moyen/client, performance)
+Automatisation du reporting
 
-**Outils :** Excel, Power BI
+👉 Impact : mise en évidence des axes d’amélioration business
 
-🔗 [Voir le projet](https://github.com/ton-compte/ecommerce-dashboard)
+📈 Analyse & visualisation des performances commerciales (Excel)
 
----
+🔗 Voir le projet
 
-### 🛍️ Retail SQL Analysis
+Création d’un dashboard interactif à partir de données brutes :
 
-➡️ Analyse de bases clients et transactions
-➡️ Requêtes avancées : CTE, RANK, LEAD/LAG
-➡️ Segmentation clients et analyse comportementale
+Nettoyage des données avec Power Query
+Construction de tableaux de bord dynamiques
+Analyse des ventes, marges et performances régionales
+Utilisation de TCD et segments
 
-**Outils :** SQL, PostgreSQL
+👉 Impact : meilleure lecture des performances pour la prise de décision
 
-🔗 [Voir le projet](https://github.com/ton-compte/sql-retail-analysis)
+💼 Expérience
+🍔 Équipier polyvalent – Burger King (CDI)
+Gestion des flux dans un environnement rapide
+Travail en équipe & optimisation des processus
+Orientation satisfaction client
+🧹 Agent de service – AMS Propreté
+Respect de procédures strictes
+Organisation & rigueur opérationnelle
 
----
+👉 Ces expériences m’ont apporté : discipline, efficacité et sens du détail
 
-### 🐍 Analyse exploratoire des ventes (Python)
-
-➡️ Nettoyage et préparation des données
-➡️ Visualisations et analyse statistique
-➡️ Extraction d’insights business exploitables
-
-**Outils :** pandas, matplotlib, seaborn
-
-🔗 [Voir le projet](https://github.com/ton-compte/python-sales-analysis)
-
----
-
-## 🧰 Compétences techniques
-
-**Langages :**
-Python • R • SQL
-
-**Data & BI :**
-Power BI • Excel (TCD, dashboards, automatisation)
-
-**Outils :**
-Git • GitHub
-
-**Compétences analytiques :**
-EDA • Nettoyage des données • Agrégation • Analyse statistique
-
----
-
-## 🎓 Formation
-
-🎓 Licence Big Data & Analyse de données
-Université Denis Sassou N’guesso (2022 – 2024)
-
-🎓 Licence Mathématiques
-Université de Tours
-
-🎓 Baccalauréat Scientifique
-Congo (2022)
-
----
-
-## 💼 Expériences professionnelles
-
-**Équipier polyvalent – Burger King (CDI)**
-➡️ Travail en équipe dans un environnement dynamique
-➡️ Gestion du stress et respect des procédures
-➡️ Développement de la rigueur opérationnelle
-
-**Agent de service – AMS Propreté (CDD)**
-➡️ Autonomie et gestion des tâches
-➡️ Respect strict des normes d’hygiène et de sécurité
-
----
-
-## 🌟 Soft Skills & intérêts
+🎓 Formation
+🎓 Licence Mathématiques – Université de Tours (2024–2026)
+🎓 Licence Big Data & Analyse de Données – Congo (2022–2024)
+🎓 Bac Scientifique
+🌍 Langues
+🇫🇷 Français : natif
+🇬🇧 Anglais : B2
+📌 Points forts
 
 ✔️ Esprit analytique
-✔️ Rigueur
-✔️ Autonomie
-✔️ Curiosité technique
+✔️ Rigueur & sens du détail
+✔️ Apprentissage rapide
+✔️ Curiosité pour la data & l’IA
 
-🎯 Centres d’intérêt :
-Data • Programmation • Développement personnel
+📫 Me contacter
 
-🌍 Langues :
-Français (natif) • Anglais (B2)
-
----
-
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-compte\&show_icons=true\&theme=default)
-
----
-
-## 📫 Me contacter
-
-Je suis actuellement à la recherche de :
-🎓 Master (Data / Statistiques / IA)
-💼 Alternance / Stage / Premier emploi
-
-📩 Contact : **[kiangnganga@gmail.com](mailto:kiangnganga@gmail.com)**
-
----
-
-⭐ *Tous mes projets sont disponibles sur ce GitHub — n’hésitez pas à les explorer !*
-
+📧 Email : kiangnganga@gmail.com
+💼 LinkedIn : Mon profil
