@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Jourdan Kiang Nganga
 
-**📊 Data Analyst Junior | Alternance dès Septembre 2026**  
+**📊 Data Analyst Junior | Alternance dès Septembre 2026** 
 📍 Tours, France  
 📧 [kiangnganga@gmail.com](mailto:kiangnganga@gmail.com)  
 
